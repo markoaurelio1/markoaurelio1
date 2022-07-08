@@ -1,10 +1,13 @@
-### Hi there 👋
+### Quem sou:
 
-- 💼 I'm currently work as FiveM developer.
-- 📄 I develop scripts for FiveM.
-- 🤖 I develop discord bots.
-- 📝 I'm currently learning Lua and Javascript.
-- 📬 How to reach me? Contact me via discord: Marko_#3253 / https://discord.gg/tBsK5QbpgG
+- 💼 FiveM developer.
+- 🤖 Discord bots developer.
+
+Sobre mim:
+CEO http://dsc.gg/domstore
+DEV http://dsc.gg/themonster
+DEV http://dsc.gg/fusiongroup
+STAFF http://dsc.gg/fusionhost
 
 ![markoaurelio1's GitHub stats](https://github-readme-stats.vercel.app/api?username=markoaurelio1&count_private=true&show_icons=true&theme=onedark)
 
