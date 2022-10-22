@@ -1,9 +1,9 @@
-# Quem sou:
+# Who am I:
 
 - 💼 FiveM developer.
 - 🤖 Discord bots developer.
 
-### Sobre mim:
+### About me:
 - [CEO] Dom Store - http://dsc.gg/domstore
 - [DEV] The Monster RP - http://dsc.gg/themonster
 - [DEV] Fusion Group - http://dsc.gg/fusiongroup
