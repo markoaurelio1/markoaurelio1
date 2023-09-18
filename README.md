@@ -11,4 +11,6 @@
 
 ![markoaurelio1's GitHub stats](https://github-readme-stats.vercel.app/api?username=markoaurelio1&count_private=true&show_icons=true&theme=onedark)
 
+![snake gif](https://github.com/markoaurelio1/markoaurelio1/blob/output/github-contribution-grid-snake.svg)
+
 ![Views](https://komarev.com/ghpvc/?username=markoaurelio1&style=flat&color=blue&label=Views)
